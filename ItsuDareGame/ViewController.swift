@@ -51,6 +51,7 @@ class ViewController: UIViewController {
         doshitaLabel.text = "---"
         
         index = 0
+        print("reset!")
     }
     
     @IBAction func random(){
